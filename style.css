@@ -1,0 +1,38 @@
+/* CSS Document */
+
+
+.classDivMelhorCaminho{
+    border: 1px solid #f00;
+    position:absolute;
+    top:10px;
+    left:420px;
+     
+}
+
+.classDivCaminhos{
+    
+    border: 1px solid #f55;
+    position:absolute;
+    top:200px;
+    left:420px;
+}
+
+.hCidade{
+    display:inline;
+    padding:2px 5px;
+    //width:200px;
+    //background-color: red;
+}
+
+.divCommand{
+    position:absolute;
+    top: 420px;
+    left:10px;
+    border: 5px solid red;
+
+}
+
+.btnPressed{
+    background-color: yellow;
+}
+
